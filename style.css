@@ -1,0 +1,15 @@
+ .gameBoard {
+    background: grey;
+    height: 300px;
+    width: 100%;
+    position: absolute;
+ }
+
+ #back {
+    background: orange;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: auto 0;
+    position: relative;
+ }

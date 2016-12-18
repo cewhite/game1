@@ -1,0 +1,6 @@
+ .gameBoard {
+    background: grey;
+    height: 300px;
+    width: 100%;
+    position: absolute;
+ }
