@@ -5,11 +5,12 @@
     position: absolute;
  }
 
- #back {
+ .card {
     background: orange;
     height: 100px;
     width: 100px;
     display: inline-block;
     margin: auto 0;
     position: relative;
+    transition: all 0.5s;
  }
